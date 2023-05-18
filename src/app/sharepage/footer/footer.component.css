@@ -1,9 +1,32 @@
 .footer{
   overflow: hidden;
+  position: sticky;
+  top: 100%;
   background-color: rgb(62, 56, 56);
   padding:  20px 10px;
 }
 
 h1{
+  font-weight: bold;
   color: bisque;
+  font-size: 15px;
+}
+
+p{
+  color: rgb(124, 241, 89);
+  font-size: 10px;
+}
+
+a{
+  color: bisque;
+  text-decoration: none;
+  padding: 0px 5px;
+  font-size: 15px;
+}
+
+a:hover{
+  color: aquamarine;
+}
+i{
+  padding: 0px 6px;
 }

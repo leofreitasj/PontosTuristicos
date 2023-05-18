@@ -6,10 +6,11 @@
 }
 
 :root{
-  --primeira-color:rgb(29, 68, 223);
+  --primeira-color:aquamarine;
 
 }
 body{
   font-family: Arial, Helvetica, sans-serif;
+  height: 100vb;
 
 }
