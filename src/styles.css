@@ -5,6 +5,11 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-  background-image: ;
+:root{
+  --primeira-color:rgb(29, 68, 223);
+
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+
 }
