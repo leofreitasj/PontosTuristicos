@@ -1,7 +1,7 @@
 .banner{
   background-image: url("../../../assets/img/bck.jpg");
   height: 800px;
-  background-position: center top;
+  background-position: center;
   background-size: cover;
 }
 
@@ -41,4 +41,33 @@
   background-color:white;
   color: black;
 
+}
+.box {
+  background-color: rgba(0, 0, 0, 0);
+  padding:15px 15px;
+  border-radius: 15px;
+  text-align: center;
+  border: solid;
+  border-color: black;
+
+}
+.box h1{
+  font-size: 45px;
+  font-weight: bold;
+  color: black;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.box{
+  font-size: 28px;
+  font-style: italic;
+  color: black;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.text-center{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+div {
+  background-color: rgba(127, 255, 212, 0);
 }
