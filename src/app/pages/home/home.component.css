@@ -1,0 +1,44 @@
+.banner{
+  background-image: url("../../../assets/img/bck.jpg");
+  height: 800px;
+  background-position: center top;
+  background-size: cover;
+}
+
+.banner h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  top: 30%;
+  left: 20%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+.content{
+  top: 30%;
+  left: 20%;
+  position: absolute;
+
+}
+
+.content h1 {
+  color:rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.content a{
+  text-decoration: none;
+  background-color: rgba(0, 198, 212, 0);
+  color: rgb(0, 0, 0);
+  padding:12px 16px;
+  border-radius: 15%;
+  font-weight: bold;
+  border: solid;
+}
+
+.content a:hover{
+  background-color:white;
+  color: black;
+
+}
