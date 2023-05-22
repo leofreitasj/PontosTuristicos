@@ -71,3 +71,21 @@
 div {
   background-color: rgba(127, 255, 212, 0);
 }
+
+.grupobox{
+  padding: 10px 5px;
+
+}
+
+.grupobox img{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 15px;
+
+}
+.grupobox h1{
+  font-size: 18px;
+  margin-top: 20px;
+
+}
